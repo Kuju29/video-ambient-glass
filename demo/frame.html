@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Any web page in an iframe</title>
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; font: 600 6vw/1 system-ui, sans-serif; }
+  body { display: grid; grid-template-columns: 1fr 1fr; }
+  div { display: grid; place-items: center; color: #fff; animation: hue 6s linear infinite; }
+  .a { background: #ff3b30; } .b { background: #0a84ff; animation-delay: -3s; }
+  @keyframes hue { to { filter: hue-rotate(360deg); } }
+</style>
+</head>
+<body>
+  <div class="a">LEFT</div>
+  <div class="b">RIGHT</div>
+</body>
+</html>
