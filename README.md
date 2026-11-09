@@ -213,6 +213,13 @@ The demo has a CSS animation, a `<video>` (`sample.mp4`, generated colour gradie
 
 ---
 
+## youtube ambient-glass
+<img width="1240" height="702" alt="image" src="https://github.com/user-attachments/assets/8efc0fc9-9b02-4250-9fcc-4219cb8dc17f" />
+<img width="1244" height="742" alt="image" src="https://github.com/user-attachments/assets/77caf0fb-364e-4313-8255-048e90e7a80a" />
+
+## my ambient-glass
+<img width="2549" height="943" alt="image" src="https://github.com/user-attachments/assets/8d9f02ae-556e-454c-8231-84cdee31d9ce" />
+
 ## Credits
 
 Built for **ดูไรดีอนิเมะ** ([dooridee-anime.com](https://dooridee-anime.com/)), a guide to licensed anime in Thailand, by **KUJU** ([kuju29.com](https://kuju29.com/)).
